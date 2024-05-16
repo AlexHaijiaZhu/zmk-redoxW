@@ -1,2 +1,2 @@
 config SHIELD_REDOXW
-    def_bool $(shields_list_contains,redoxW)
+    def_bool $(shields_list_contains,redoxw)

@@ -19,4 +19,4 @@
 ---
 include:
   - board: nice_nano
-    shield: redoxW
+    shield: redoxw
