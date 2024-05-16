@@ -1,0 +1,6 @@
+if SHIELD_REDOXW
+
+config ZMK_KEYBOARD_NAME
+    default "RedoxW"
+
+endif
